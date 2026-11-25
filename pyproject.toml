@@ -7,7 +7,7 @@ name = "isodraw"
 version = "0.1.0"
 description = "ISO-style engineering drawings (frame, title block, dimensions, hatching) as SVG from plain Python, with provenance colour-coding of every number."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [{name = "Ivan Sushko"}]
 keywords = ["engineering drawing", "svg", "iso 128", "iso 129", "technical drawing", "cad", "dimensioning"]

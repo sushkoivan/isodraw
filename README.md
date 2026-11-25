@@ -3,7 +3,7 @@
 **ISO-style engineering drawings as SVG, straight from your Python calculation scripts — and every number on the sheet says where it came from.**
 
 [![CI](https://github.com/sushkoivan/isodraw/actions/workflows/ci.yml/badge.svg)](https://github.com/sushkoivan/isodraw/actions/workflows/ci.yml)
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -17,7 +17,7 @@ Concept drawings usually live in a CAD tool, while the numbers behind them live 
 
 ## Features
 
-- **Pure standard library**, Python ≥ 3.9, zero dependencies, ~1000 lines. Runs anywhere Python runs.
+- **Pure standard library**, Python ≥ 3.10, zero dependencies, ~1000 lines. Runs anywhere Python runs.
 - **Real paper space**: SVG viewBox in millimetres (A4–A0 landscape), so 1 unit = 1 mm when printed at 100 %.
 - **Model views at any ISO 5455 scale** (`"1:2"`, `"5:1"`, …): model y up, paper y down, text never mirrored.
 - **ISO 128-20 line types**: visible, thin, hidden, centre (chain), phantom.

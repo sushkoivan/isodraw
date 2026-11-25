@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297">
+<title>DWG-0000 ISODRAW DEMO SHEET</title>
+<rect x="0" y="0" width="420" height="297" fill="#ffffff"/>
+<defs>
+<clipPath id="hat2"><polygon points="45,120 105,120 105,90 45,90"/></clipPath>
+<clipPath id="hat3"><polygon points="105,120 135,120 135,90 105,90"/></clipPath>
+<clipPath id="frameclip"><rect x="20" y="10" width="390" height="277"/></clipPath>
+</defs>
+<g id="banner" clip-path="url(#frameclip)">
+<text x="215" y="155.925" font-family="Arial, Helvetica, sans-serif" font-size="20.74" fill="#000000" text-anchor="middle" font-weight="bold" fill-opacity="0.07" transform="rotate(-17.692 215 155.925)">CONCEPT — NOT FOR MANUFACTURE</text>
+</g>
+<g id="view1-geom">
+<path clip-path="url(#hat2)" d="M28.261,104.675L74.675,58.261M29.675,106.089L76.089,59.675M31.089,107.504L77.504,61.089M32.504,108.918L78.918,62.504M33.918,110.332L80.332,63.918M35.332,111.746L81.746,65.332M36.746,113.16L83.16,66.746M38.16,114.575L84.575,68.16M39.575,115.989L85.989,69.575M40.989,117.403L87.403,70.989M42.403,118.817L88.817,72.403M43.817,120.231L90.231,73.817M45.231,121.646L91.646,75.231M46.646,123.06L93.06,76.646M48.06,124.474L94.474,78.06M49.474,125.888L95.888,79.474M50.888,127.303L97.303,80.888M52.303,128.717L98.717,82.303M53.717,130.131L100.131,83.717M55.131,131.545L101.545,85.131M56.545,132.959L102.959,86.545M57.959,134.374L104.374,87.959M59.374,135.788L105.788,89.374M60.788,137.202L107.202,90.788M62.202,138.616L108.616,92.202M63.616,140.03L110.03,93.616M65.03,141.445L111.445,95.03M66.445,142.859L112.859,96.445M67.859,144.273L114.273,97.859M69.273,145.687L115.687,99.273M70.687,147.102L117.102,100.687M72.102,148.516L118.516,102.102M73.516,149.93L119.93,103.516M74.93,151.344L121.344,104.93" stroke="#000000" stroke-width="0.18" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="45,120 105,120 105,90 45,90" stroke="#000000" stroke-width="0.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path clip-path="url(#hat3)" d="M119.722,136.692L88.308,105.278M121.136,135.278L89.722,103.864M122.55,133.864L91.136,102.45M123.964,132.45L92.55,101.036M125.379,131.036L93.964,99.621M126.793,129.621L95.379,98.207M128.207,128.207L96.793,96.793M129.621,126.793L98.207,95.379M131.036,125.379L99.621,93.964M132.45,123.964L101.036,92.55M133.864,122.55L102.45,91.136M135.278,121.136L103.864,89.722M136.692,119.722L105.278,88.308M138.107,118.308L106.692,86.893M139.521,116.893L108.107,85.479M140.935,115.479L109.521,84.065M142.349,114.065L110.935,82.651M143.763,112.651L112.349,81.237M145.178,111.237L113.763,79.822M146.592,109.822L115.178,78.408M148.006,108.408L116.592,76.994M149.42,106.994L118.006,75.58M150.835,105.58L119.42,74.165" stroke="#000000" stroke-width="0.18" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="105,120 135,120 135,90 105,90" stroke="#000000" stroke-width="0.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="165" cy="105" r="15" stroke="#000000" stroke-width="0.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="145" y1="105" x2="185" y2="105" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 1 1.5 1"/>
+<line x1="165" y1="85" x2="165" y2="125" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 1 1.5 1"/>
+<path d="M225,120 A20,20 0 0 0 205,100" stroke="#000000" stroke-width="0.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="45" y1="132" x2="135" y2="132" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 1"/>
+<line x1="45" y1="138" x2="135" y2="138" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 1 1.5 1 1.5 1"/>
+<line x1="37" y1="105" x2="143" y2="105" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 1 1.5 1"/>
+</g>
+<g id="view1-anno">
+<text x="140" y="190" font-family="Arial, Helvetica, sans-serif" font-size="6.983" fill="#000000" text-anchor="middle" font-weight="bold">TEST VIEW  1:1</text>
+<line x1="45" y1="89" x2="45" y2="80" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="105" y1="89" x2="105" y2="80" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="45" y1="82" x2="105" y2="82" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="45,82 48,81.45 48,82.55" fill="#000000" stroke="none"/>
+<polygon points="105,82 102,82.55 102,81.45" fill="#000000" stroke="none"/>
+<text x="75" y="81" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">60</text>
+<line x1="105" y1="89" x2="105" y2="80" stroke="#0b3d91" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="135" y1="89" x2="135" y2="80" stroke="#0b3d91" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="105" y1="82" x2="135" y2="82" stroke="#0b3d91" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="105,82 108,81.45 108,82.55" fill="#0b3d91" stroke="none"/>
+<polygon points="135,82 132,82.55 132,81.45" fill="#0b3d91" stroke="none"/>
+<text x="120" y="81" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#0b3d91" text-anchor="middle">30</text>
+<line x1="45" y1="89" x2="45" y2="72" stroke="#d96c00" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="135" y1="89" x2="135" y2="72" stroke="#d96c00" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="45" y1="74" x2="135" y2="74" stroke="#d96c00" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="45,74 48,73.45 48,74.55" fill="#d96c00" stroke="none"/>
+<polygon points="135,74 132,74.55 132,73.45" fill="#d96c00" stroke="none"/>
+<text x="90" y="73" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#d96c00" text-anchor="middle">90</text>
+<line x1="136" y1="120" x2="147" y2="120" stroke="#d00000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="136" y1="90" x2="147" y2="90" stroke="#d00000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="145" y1="120" x2="145" y2="90" stroke="#d00000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="145,120 144.45,117 145.55,117" fill="#d00000" stroke="none"/>
+<polygon points="145,90 145.55,93 144.45,93" fill="#d00000" stroke="none"/>
+<text x="144" y="105" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#d00000" text-anchor="middle" transform="rotate(-90 144 105)">TBD</text>
+<line x1="44" y1="120" x2="37" y2="120" stroke="#0b3d91" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="44" y1="117" x2="37" y2="117" stroke="#0b3d91" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="39" y1="126" x2="39" y2="111" stroke="#0b3d91" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="39,120 39.55,123 38.45,123" fill="#0b3d91" stroke="none"/>
+<polygon points="39,117 38.45,114 39.55,114" fill="#0b3d91" stroke="none"/>
+<line x1="39" y1="111" x2="39" y2="107.282" stroke="#0b3d91" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="38" y="110" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#0b3d91" text-anchor="start" transform="rotate(-90 38 110)">3</text>
+<line x1="152.01" y1="112.5" x2="180.588" y2="96" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="180.588" y1="96" x2="191.827" y2="96" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="152.01,112.5 154.333,110.524 154.883,111.476" fill="#000000" stroke="none"/>
+<polygon points="177.99,97.5 175.667,99.476 175.117,98.524" fill="#000000" stroke="none"/>
+<text x="181.588" y="95" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="start">Ø30</text>
+<line x1="205" y1="120" x2="230.114" y2="113.271" stroke="#0b3d91" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="230.114" y1="113.271" x2="241.81" y2="113.271" stroke="#0b3d91" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="224.319,114.824 221.563,116.131 221.278,115.069" fill="#0b3d91" stroke="none"/>
+<text x="231.114" y="112.271" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#0b3d91" text-anchor="start">R20</text>
+<polyline points="245,120 244.969,118.43 244.877,116.862 244.723,115.299 244.508,113.743 244.231,112.196 243.895,110.662 243.498,109.142 243.042,107.639 242.528,106.155 241.955,104.693 241.326,103.254 240.64,101.84 239.9,100.455 239.106,99.1 238.259,97.777 237.361,96.489 236.413,95.236 235.416,94.022 234.373,92.848 233.284,91.716 232.152,90.627 230.978,89.584 229.764,88.587 228.511,87.639 227.223,86.741 225.9,85.894 224.545,85.1 223.16,84.36 221.746,83.674 220.307,83.045 218.845,82.472 217.361,81.958 215.858,81.502 214.338,81.105 212.804,80.769 211.257,80.492 209.701,80.277 208.138,80.123 206.57,80.031 205,80" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="245,120 244.391,117.011 245.491,116.99" fill="#000000" stroke="none"/>
+<polygon points="205,80 208.01,79.509 207.989,80.609" fill="#000000" stroke="none"/>
+<text x="234.698" y="90.302" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="start">90°</text>
+<line x1="85" y1="90" x2="85" y2="111" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="85,90 85.55,93 84.45,93" fill="#000000" stroke="none"/>
+<text x="84" y="105.119" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="start" transform="rotate(-90 84 105.119)">Ø30</text>
+<polygon points="75,120 76.568,122.616 75.538,123.002" fill="#d96c00" stroke="none"/>
+<line x1="75" y1="120" x2="87" y2="152" stroke="#d96c00" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="87" y1="152" x2="127.036" y2="152" stroke="#d96c00" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="87.5" y="151" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#d96c00" text-anchor="start">SOME CALLOUT</text>
+<circle cx="120" cy="115" r="0.6" fill="#0b3d91"/>
+<line x1="120" y1="115" x2="154" y2="149" stroke="#0b3d91" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="156.828" cy="151.828" r="4.0" stroke="#0b3d91" stroke-width="0.25" fill="#ffffff" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="156.828" y="153.578" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#0b3d91" text-anchor="middle">1</text>
+<line x1="45.447" y1="120.894" x2="52.155" y2="134.311" stroke="#0b3d91" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="105.447" y1="90.894" x2="112.155" y2="104.311" stroke="#0b3d91" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="51.261" y1="132.522" x2="111.261" y2="102.522" stroke="#0b3d91" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="51.261,132.522 53.698,130.688 54.19,131.672" fill="#0b3d91" stroke="none"/>
+<polygon points="111.261,102.522 108.824,104.356 108.332,103.372" fill="#0b3d91" stroke="none"/>
+<text x="80.814" y="116.628" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#0b3d91" text-anchor="middle" transform="rotate(-26.565 80.814 116.628)">67.1</text>
+</g>
+<g id="paper">
+<text x="262" y="23" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="start" font-weight="bold">GENERAL NOTES</text>
+<text x="262" y="29" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">1.</text>
+<text x="269" y="29" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">First note.</text>
+<text x="262" y="33.6" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">2.</text>
+<text x="269" y="33.6" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">Second note that is long enough to wrap onto a second line of the block so that</text>
+<text x="269" y="37.6" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">wrapping is tested.</text>
+<text x="262" y="55.5" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start" font-weight="bold">DIMENSION COLOURS = PROVENANCE</text>
+<rect x="262" y="57.25" width="5" height="2.5" stroke="#000000" stroke-width="0.25" fill="#000000"/>
+<text x="269" y="59.75" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">sourced (drawing, standard, datasheet)</text>
+<rect x="262" y="61.5" width="5" height="2.5" stroke="#0b3d91" stroke-width="0.25" fill="#0b3d91"/>
+<text x="269" y="64" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#0b3d91" text-anchor="start">calculated (calc:&lt;script&gt;)</text>
+<rect x="262" y="65.75" width="5" height="2.5" stroke="#d96c00" stroke-width="0.25" fill="#d96c00"/>
+<text x="269" y="68.25" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#d96c00" text-anchor="start">assumption (assume:&lt;reason&gt;)</text>
+<rect x="262" y="70" width="5" height="2.5" stroke="#d00000" stroke-width="0.25" fill="#d00000"/>
+<text x="269" y="72.5" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#d00000" text-anchor="start">TBD -- not yet defined</text>
+<text x="262" y="88.5" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="start" font-weight="bold">PROVENANCE OF EVERY DIMENSION / CALLOUT</text>
+<text x="262.5" y="94.075" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start" font-weight="bold">#</text>
+<text x="269.75" y="94.075" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start" font-weight="bold">view</text>
+<text x="285.7" y="94.075" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start" font-weight="bold">feature</text>
+<text x="355.3" y="94.075" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start" font-weight="bold">value</text>
+<text x="377.05" y="94.075" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start" font-weight="bold">source</text>
+<line x1="262" y1="95.275" x2="405" y2="95.275" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="262.5" y="97.95" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">1</text>
+<text x="269.75" y="97.95" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">TEST</text>
+<text x="285.7" y="97.95" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">60</text>
+<text x="355.3" y="97.95" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">60 mm</text>
+<text x="377.05" y="97.95" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">part drawing</text>
+<text x="262.5" y="101.825" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">2</text>
+<text x="269.75" y="101.825" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">TEST</text>
+<text x="285.7" y="101.825" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">30</text>
+<text x="355.3" y="101.825" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#0b3d91" text-anchor="start">30 mm</text>
+<text x="377.05" y="101.825" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#0b3d91" text-anchor="start">calc:block_width</text>
+<text x="262.5" y="105.7" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">3</text>
+<text x="269.75" y="105.7" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">TEST</text>
+<text x="285.7" y="105.7" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">90</text>
+<text x="355.3" y="105.7" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#d96c00" text-anchor="start">90 mm</text>
+<text x="377.05" y="105.7" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#d96c00" text-anchor="start" textLength="28.95" lengthAdjust="spacingAndGlyphs">assume: stock length</text>
+<text x="262.5" y="109.575" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">4</text>
+<text x="269.75" y="109.575" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">TEST</text>
+<text x="285.7" y="109.575" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">TBD</text>
+<text x="355.3" y="109.575" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#d00000" text-anchor="start">TBD</text>
+<text x="377.05" y="109.575" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#d00000" text-anchor="start">TBD</text>
+<text x="262.5" y="113.45" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">5</text>
+<text x="269.75" y="113.45" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">TEST</text>
+<text x="285.7" y="113.45" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">3</text>
+<text x="355.3" y="113.45" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#0b3d91" text-anchor="start">3 mm</text>
+<text x="377.05" y="113.45" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#0b3d91" text-anchor="start">calc:block_width</text>
+<text x="262.5" y="117.325" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">6</text>
+<text x="269.75" y="117.325" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">TEST</text>
+<text x="285.7" y="117.325" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">Ø30</text>
+<text x="355.3" y="117.325" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">30 mm</text>
+<text x="377.05" y="117.325" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">ISO 273</text>
+<text x="262.5" y="121.2" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">7</text>
+<text x="269.75" y="121.2" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">TEST</text>
+<text x="285.7" y="121.2" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">R20</text>
+<text x="355.3" y="121.2" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#0b3d91" text-anchor="start">20 mm</text>
+<text x="377.05" y="121.2" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#0b3d91" text-anchor="start">calc:bend_radius</text>
+<text x="262.5" y="125.075" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">8</text>
+<text x="269.75" y="125.075" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">TEST</text>
+<text x="285.7" y="125.075" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">90°</text>
+<text x="355.3" y="125.075" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">90 deg</text>
+<text x="377.05" y="125.075" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">part drawing</text>
+<text x="262.5" y="128.95" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">9</text>
+<text x="269.75" y="128.95" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">TEST</text>
+<text x="285.7" y="128.95" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">Ø30</text>
+<text x="355.3" y="128.95" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">30 mm</text>
+<text x="377.05" y="128.95" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">part drawing</text>
+<text x="262.5" y="132.825" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">10</text>
+<text x="269.75" y="132.825" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">TEST</text>
+<text x="285.7" y="132.825" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">SOME CALLOUT</text>
+<text x="355.3" y="132.825" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#d96c00" text-anchor="start">-</text>
+<text x="377.05" y="132.825" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#d96c00" text-anchor="start" textLength="28.95" lengthAdjust="spacingAndGlyphs">assume: deburr all edges</text>
+<text x="262.5" y="136.7" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">11</text>
+<text x="269.75" y="136.7" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">TEST</text>
+<text x="285.7" y="136.7" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">(1) test part</text>
+<text x="355.3" y="136.7" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#0b3d91" text-anchor="start">-</text>
+<text x="377.05" y="136.7" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#0b3d91" text-anchor="start">calc:block_width</text>
+<text x="262.5" y="140.575" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">12</text>
+<text x="269.75" y="140.575" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">TEST</text>
+<text x="285.7" y="140.575" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">aligned test</text>
+<text x="355.3" y="140.575" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#0b3d91" text-anchor="start">67.08 mm</text>
+<text x="377.05" y="140.575" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#0b3d91" text-anchor="start">calc:diagonal</text>
+</g>
+<g id="frame">
+<rect x="20" y="10" width="390" height="277" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text x="44.375" y="7" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">1</text>
+<text x="44.375" y="293.5" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">1</text>
+<line x1="68.75" y1="10" x2="68.75" y2="5" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="68.75" y1="287" x2="68.75" y2="292" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="93.125" y="7" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">2</text>
+<text x="93.125" y="293.5" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">2</text>
+<line x1="117.5" y1="10" x2="117.5" y2="5" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="117.5" y1="287" x2="117.5" y2="292" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="141.875" y="7" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">3</text>
+<text x="141.875" y="293.5" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">3</text>
+<line x1="166.25" y1="10" x2="166.25" y2="5" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="166.25" y1="287" x2="166.25" y2="292" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="190.625" y="7" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">4</text>
+<text x="190.625" y="293.5" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">4</text>
+<line x1="215" y1="10" x2="215" y2="5" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="215" y1="287" x2="215" y2="292" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="239.375" y="7" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">5</text>
+<text x="239.375" y="293.5" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">5</text>
+<line x1="263.75" y1="10" x2="263.75" y2="5" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="263.75" y1="287" x2="263.75" y2="292" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="288.125" y="7" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">6</text>
+<text x="288.125" y="293.5" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">6</text>
+<line x1="312.5" y1="10" x2="312.5" y2="5" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="312.5" y1="287" x2="312.5" y2="292" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="336.875" y="7" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">7</text>
+<text x="336.875" y="293.5" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">7</text>
+<line x1="361.25" y1="10" x2="361.25" y2="5" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="361.25" y1="287" x2="361.25" y2="292" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="385.625" y="7" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">8</text>
+<text x="385.625" y="293.5" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">8</text>
+<text x="16" y="34.833" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">A</text>
+<text x="415" y="34.833" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">A</text>
+<line x1="20" y1="56.167" x2="15" y2="56.167" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="410" y1="56.167" x2="415" y2="56.167" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="16" y="81" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">B</text>
+<text x="415" y="81" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">B</text>
+<line x1="20" y1="102.333" x2="15" y2="102.333" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="410" y1="102.333" x2="415" y2="102.333" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="16" y="127.167" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">C</text>
+<text x="415" y="127.167" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">C</text>
+<line x1="20" y1="148.5" x2="15" y2="148.5" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="410" y1="148.5" x2="415" y2="148.5" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="16" y="173.333" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">D</text>
+<text x="415" y="173.333" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">D</text>
+<line x1="20" y1="194.667" x2="15" y2="194.667" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="410" y1="194.667" x2="415" y2="194.667" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="16" y="219.5" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">E</text>
+<text x="415" y="219.5" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">E</text>
+<line x1="20" y1="240.833" x2="15" y2="240.833" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="410" y1="240.833" x2="415" y2="240.833" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="16" y="265.667" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">F</text>
+<text x="415" y="265.667" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="middle">F</text>
+<rect x="230" y="229" width="180" height="58" stroke="#000000" stroke-width="0.7" fill="#ffffff"/>
+<rect x="230" y="229" width="120" height="10" stroke="#000000" stroke-width="0.25" fill="none"/>
+<text x="231" y="232" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#444444" text-anchor="start">MATERIAL</text>
+<text x="231.5" y="237.4" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="start">-</text>
+<rect x="350" y="229" width="60" height="10" stroke="#000000" stroke-width="0.25" fill="none"/>
+<text x="351" y="232" font-family="Arial, Helvetica, sans-serif" font-size="2.793" fill="#444444" text-anchor="start">MASS (source)</text>
+<text x="351.5" y="237.4" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="start">-</text>
+<rect x="230" y="239" width="100" height="10" stroke="#000000" stroke-width="0.25" fill="none"/>
+<text x="231" y="242" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#444444" text-anchor="start">DRAWN BY</text>
+<text x="231.5" y="247.4" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="start">isodraw</text>
+<rect x="330" y="239" width="40" height="10" stroke="#000000" stroke-width="0.25" fill="none"/>
+<text x="331" y="242" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#444444" text-anchor="start">DATE</text>
+<text x="331.5" y="247.4" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="start">2026-11-25</text>
+<rect x="370" y="239" width="40" height="10" stroke="#000000" stroke-width="0.25" fill="none"/>
+<text x="371" y="242" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#444444" text-anchor="start">STATUS</text>
+<text x="371.5" y="247.4" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#c00000" text-anchor="start">DEMO</text>
+<rect x="230" y="249" width="30" height="11" stroke="#000000" stroke-width="0.25" fill="none"/>
+<text x="231" y="252" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#444444" text-anchor="start">SCALE</text>
+<text x="231.5" y="258.4" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="start">1:1</text>
+<rect x="260" y="249" width="30" height="11" stroke="#000000" stroke-width="0.25" fill="none"/>
+<text x="261" y="252" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#444444" text-anchor="start">PROJECTION</text>
+<polygon points="267,254.25 274,252.5 274,259.5 267,257.75" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="280" cy="256" r="3.5" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="280" cy="256" r="1.75" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="265.5" y1="256" x2="275.5" y2="256" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 1 1.5 1"/>
+<line x1="275" y1="256" x2="285" y2="256" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 1 1.5 1"/>
+<line x1="280" y1="251" x2="280" y2="261" stroke="#000000" stroke-width="0.25" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 1 1.5 1"/>
+<rect x="290" y="249" width="25" height="11" stroke="#000000" stroke-width="0.25" fill="none"/>
+<text x="291" y="252" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#444444" text-anchor="start">SHEET</text>
+<text x="291.5" y="258.4" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="start">1/1</text>
+<rect x="315" y="249" width="25" height="11" stroke="#000000" stroke-width="0.25" fill="none"/>
+<text x="316" y="252" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#444444" text-anchor="start">REVISION</text>
+<text x="316.5" y="258.4" font-family="Arial, Helvetica, sans-serif" font-size="4.888" fill="#000000" text-anchor="start">A</text>
+<rect x="340" y="249" width="70" height="11" stroke="#000000" stroke-width="0.25" fill="none"/>
+<text x="341" y="252" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#444444" text-anchor="start">STANDARDS</text>
+<text x="341.5" y="258.4" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">ISO 128 / 129-1 / 5457 / 7200, dims in mm</text>
+<rect x="230" y="260" width="180" height="13" stroke="#000000" stroke-width="0.25" fill="none"/>
+<text x="231" y="263" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#444444" text-anchor="start">TITLE</text>
+<text x="231.5" y="271.4" font-family="Arial, Helvetica, sans-serif" font-size="6.983" fill="#000000" text-anchor="start" font-weight="bold">ISODRAW DEMO SHEET</text>
+<rect x="230" y="273" width="110" height="14" stroke="#000000" stroke-width="0.25" fill="none"/>
+<text x="231" y="276" font-family="Arial, Helvetica, sans-serif" font-size="2.793" fill="#444444" text-anchor="start">DRAWING NUMBER</text>
+<text x="231.5" y="285.4" font-family="Arial, Helvetica, sans-serif" font-size="9.777" fill="#000000" text-anchor="start" font-weight="bold">DWG-0000</text>
+<rect x="340" y="273" width="70" height="14" stroke="#000000" stroke-width="0.25" fill="none"/>
+<text x="341" y="276" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#444444" text-anchor="start">OWNER</text>
+<text x="341.5" y="285.4" font-family="Arial, Helvetica, sans-serif" font-size="3.492" fill="#000000" text-anchor="start">isodraw example</text>
+</g>
+</svg>

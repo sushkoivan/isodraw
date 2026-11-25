@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "isodraw"
+version = "0.1.0"
+description = "ISO-style engineering drawings (frame, title block, dimensions, hatching) as SVG from plain Python, with provenance colour-coding of every number."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{name = "Ivan Sushko"}]
+keywords = ["engineering drawing", "svg", "iso 128", "iso 129", "technical drawing", "cad", "dimensioning"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: Manufacturing",
+    "Topic :: Multimedia :: Graphics :: Graphics Conversion",
+    "Topic :: Scientific/Engineering",
+    "Typing :: Typed",
+]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.scripts]
+isodraw = "isodraw.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+isodraw = ["py.typed"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

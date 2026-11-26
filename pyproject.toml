@@ -39,3 +39,8 @@ isodraw = ["py.typed"]
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 pythonpath = ["src"]
+
+[project.urls]
+Homepage = "https://github.com/sushkoivan/isodraw"
+Source = "https://github.com/sushkoivan/isodraw"
+Issues = "https://github.com/sushkoivan/isodraw/issues"
